@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dacer521
-- 👀 I’m interested in ... computational biology, AI, and just generally learning about more aspects of CS.
+- 👀 I’m interested in ... web development, SWE, IT, computational biology, AI, and learning about more aspects of CS.
 - 🌱 I’m currently learning ... html css js, python, C++, and java
 - 😄 Pronouns: ... he/him
 
