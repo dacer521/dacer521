@@ -1,4 +1,4 @@
 -  Hi, I’m @dacer521 (My real name's David)
 -  I’m interested in web development, SWE, IT, computational biology, AI, and learning about more aspects of CS.
--  I’m currently learning html css js, python, C++, and java
+-  I currently develop in html css js, python, C++, and java
 -  Pronouns: he/him
